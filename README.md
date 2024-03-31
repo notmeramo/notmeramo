@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramon Bakrui</h1>
+<h1 align="center">Hi 👋, I'm Ramon Bakuri</h1>
 <h3 align="center">a passionate website developer and designer. I create stunning online experiences that blend form and function seamlessly. Off the screen, I'm a beatboxer, weaving rhythms and melodies, and a volleyball player, setting the ball with precision. Let's build something amazing together!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notmeramo&label=Profile%20views&color=0e75b6&style=flat" alt="notmeramo" /> </p>
