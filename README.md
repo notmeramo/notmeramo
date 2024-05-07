@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [An Anime Website](https://ramowatch.netlify.app)
 
-- 🌱 I’m currently learning **DSA.**
+- 🌱 I’m currently learning **Express.js.**
 
 - 💬 Ask me about **Html ,Css,Javascript.**
 
