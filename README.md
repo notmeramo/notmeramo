@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express.js.**
 
-- 💬 Ask me about **Html ,Css,Javascript.**
+- 💬 Ask me about **Html ,Css,Javascript, React.**
 
 - 📫 How to reach me **ramonrbakuri@gmail.com**
 
